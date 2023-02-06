@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\MatchingGameshi\bin\Debug\MatchingGameshi.exe.config
+C:\Users\student\source\repos\MatchingGameshi\bin\Debug\MatchingGameshi.exe
+C:\Users\student\source\repos\MatchingGameshi\bin\Debug\MatchingGameshi.pdb
+C:\Users\student\source\repos\MatchingGameshi\obj\Debug\MatchingGameshi.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\MatchingGameshi\obj\Debug\MatchingGameshi.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\MatchingGameshi\obj\Debug\MatchingGameshi.Form1.resources
+C:\Users\student\source\repos\MatchingGameshi\obj\Debug\MatchingGameshi.Properties.Resources.resources
+C:\Users\student\source\repos\MatchingGameshi\obj\Debug\MatchingGameshi.csproj.GenerateResource.cache
+C:\Users\student\source\repos\MatchingGameshi\obj\Debug\MatchingGameshi.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\MatchingGameshi\obj\Debug\MatchingGameshi.exe
+C:\Users\student\source\repos\MatchingGameshi\obj\Debug\MatchingGameshi.pdb
