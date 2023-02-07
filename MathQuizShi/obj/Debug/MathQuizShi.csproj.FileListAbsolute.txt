@@ -1,0 +1,11 @@
+C:\Users\maksi\source\repos\MathQuizShi\bin\Debug\MathQuizShi.exe.config
+C:\Users\maksi\source\repos\MathQuizShi\bin\Debug\MathQuizShi.exe
+C:\Users\maksi\source\repos\MathQuizShi\bin\Debug\MathQuizShi.pdb
+C:\Users\maksi\source\repos\MathQuizShi\obj\Debug\MathQuizShi.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\MathQuizShi\obj\Debug\MathQuizShi.csproj.SuggestedBindingRedirects.cache
+C:\Users\maksi\source\repos\MathQuizShi\obj\Debug\MathQuizShi.Form1.resources
+C:\Users\maksi\source\repos\MathQuizShi\obj\Debug\MathQuizShi.Properties.Resources.resources
+C:\Users\maksi\source\repos\MathQuizShi\obj\Debug\MathQuizShi.csproj.GenerateResource.cache
+C:\Users\maksi\source\repos\MathQuizShi\obj\Debug\MathQuizShi.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\MathQuizShi\obj\Debug\MathQuizShi.exe
+C:\Users\maksi\source\repos\MathQuizShi\obj\Debug\MathQuizShi.pdb
