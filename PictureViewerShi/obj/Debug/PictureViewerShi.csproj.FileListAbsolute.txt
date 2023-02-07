@@ -1,0 +1,11 @@
+C:\Users\maksi\source\repos\PictureViewerShi\bin\Debug\PictureViewerShi.exe.config
+C:\Users\maksi\source\repos\PictureViewerShi\bin\Debug\PictureViewerShi.exe
+C:\Users\maksi\source\repos\PictureViewerShi\bin\Debug\PictureViewerShi.pdb
+C:\Users\maksi\source\repos\PictureViewerShi\obj\Debug\PictureViewerShi.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\PictureViewerShi\obj\Debug\PictureViewerShi.csproj.SuggestedBindingRedirects.cache
+C:\Users\maksi\source\repos\PictureViewerShi\obj\Debug\PictureViewerShi.Form1.resources
+C:\Users\maksi\source\repos\PictureViewerShi\obj\Debug\PictureViewerShi.Properties.Resources.resources
+C:\Users\maksi\source\repos\PictureViewerShi\obj\Debug\PictureViewerShi.csproj.GenerateResource.cache
+C:\Users\maksi\source\repos\PictureViewerShi\obj\Debug\PictureViewerShi.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\PictureViewerShi\obj\Debug\PictureViewerShi.exe
+C:\Users\maksi\source\repos\PictureViewerShi\obj\Debug\PictureViewerShi.pdb
